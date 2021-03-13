@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "244651304169",
+    "project_id": "hospital-f351e",
+    "storage_bucket": "hospital-f351e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244651304169:android:0f9658a4e9c6238582bc78",
+        "android_client_info": {
+          "package_name": "com.example.hospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244651304169-05asa38ihgkciehfdtftdp2om8sdjtpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hospital",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "244651304169-cb8343lpqo51q5kdblktsa2t1gp2fsgp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqUcJ9MixvwG6lIuMe4ok2dF8F4avWyx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244651304169-cb8343lpqo51q5kdblktsa2t1gp2fsgp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
